@@ -48,9 +48,10 @@ public class App
                     
                     break;
                 case 2:
-                    cave.listMonsters();
-                                        
-
+                        
+                        cave.listMonsters();
+                                       
+                    
 
                     break;
                 case 3:
