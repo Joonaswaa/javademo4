@@ -48,7 +48,7 @@ public class App
                     
                     break;
                 case 2:
-                        
+                        System.out.println("Luolan hirviöt:");
                         cave.listMonsters();
                                        
                     
